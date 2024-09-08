@@ -1,6 +1,6 @@
 # Rebecca color scheme for Oracle SQL Developer #
 
-This is a spinoff of revecca-theme color scheme for Oracle SQL Developer. It is based on [rebecca-theme for emacs by vic](https://github.com/vic/rebecca-theme).
+This is a spinoff of rebecca-theme color scheme for Oracle SQL Developer. It is based on [rebecca-theme for emacs by vic](https://github.com/vic/rebecca-theme).
 
 ![](screenshots/rebecca-sqldev_1.png)
 
